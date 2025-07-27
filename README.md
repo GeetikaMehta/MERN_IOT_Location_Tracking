@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IoT Safety System
 
 A comprehensive IoT safety system with real-time location tracking, device management, and emergency alerts.
@@ -172,3 +173,7 @@ This project is licensed under the MIT License.
 ## Support
 
 For support and questions, please open an issue in the repository. 
+=======
+# MERN_IOT_Location_Tracking
+Mern Stack IOT integration project, simply making a prototype of wrist band in which through IOT sensors one can get the location.
+>>>>>>> f0f6b32aaa0923f70d3cc774e6678c9d8fe2b39e
