@@ -1,4 +1,4 @@
-![IMG_20250623_184312](https://github.com/user-attachments/assets/464210e2-222a-4590-b0ca-223671a46a9a)
+
 # IoT Safety System
 
 A comprehensive IoT safety system with real-time location tracking, device management, and emergency alerts.
