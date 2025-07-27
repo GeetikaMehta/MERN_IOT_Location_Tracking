@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "$2a$10$aXXzS.3owDeSSwMgZODJ0Oz1ccT1lus9qUAwOhNOjjNYHRRK3qNBO",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-12T10:31:03.558Z"
+    },
+    {
+      "id": 2,
+      "name": "Geetika Mehta",
+      "email": "geetikamehta777@gmail.com",
+      "password": "$2a$10$zZMqkdmOgf1y/MyeGf3W6ufCfyzO290OXFGTyPahZQndBA0BjIBPm",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-12T10:35:43.098Z"
+    },
+    {
+      "id": 3,
+      "name": "tina ",
+      "email": "tina@gmail.com",
+      "password": "$2a$10$1mPUCtR0NxynFHjuqVSq9.Be1tsRlpybBl.LW.rTcOsYRda0iMBCW",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-13T09:11:24.631Z"
+    },
+    {
+      "id": 4,
+      "name": "Akki ",
+      "email": "akki@gmail.com",
+      "password": "$2a$10$NGhQh1CNXM3IAYlwoazL3u0JMT1M.hy9ELBSGl.rPlAEL7F4lmqKW",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-13T09:26:22.675Z"
+    },
+    {
+      "id": 5,
+      "name": "Lalit Mehta ",
+      "email": "lalitmehta44@gmail.com",
+      "password": "$2a$10$JxVlLU0ilsMNuDLS1jcA8O2Od5eISlQZq4rhCZjoWiQKQzjqf0lki",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-13T09:38:50.319Z"
+    },
+    {
+      "id": 6,
+      "name": "Mauli ",
+      "email": "mauli@gmail.com",
+      "password": "$2a$10$8Ze6NYZpaq8TRjrl6CP1be2q2oKvVBjK.6F63yEV6LahJz/XmSnjm",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-13T09:41:33.330Z"
+    },
+    {
+      "id": 7,
+      "name": "Mimansa ",
+      "email": "mimansa@gmail.com",
+      "password": "$2a$10$h3KTC78VEZEgQ4S/Zt4Q0uPxcC7xCV59XPv59H5APVSxBgvMAauWK",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-13T09:51:21.278Z"
+    },
+    {
+      "id": 8,
+      "name": "jennie ",
+      "email": "j34@gmail.com",
+      "password": "$2a$10$QdEjGfjUEVzlUZUV8.UWPuuhmYWcmtextoIB6OeAY5eo34q6ZOo2S",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-22T17:08:03.150Z"
+    },
+    {
+      "id": 9,
+      "name": "qqq",
+      "email": "qq2@gmail.com",
+      "password": "$2a$10$abZ1LZSCa1VRpHwQHMwJfO7/wFkJbOo.maZp/zijLC0.to6VDB/lq",
+      "deviceId": null,
+      "emergencyContacts": [],
+      "createdAt": "2025-06-23T16:28:55.791Z"
+    }
+  ],
+  "lastId": 9
+}

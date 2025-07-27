@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "name": "Geetika Mehta",
+  "email": "geetikamehta777@gmail.com",
+  "password": "$2a$10$zZMqkdmOgf1y/MyeGf3W6ufCfyzO290OXFGTyPahZQndBA0BjIBPm",
+  "deviceId": null,
+  "emergencyContacts": [],
+  "createdAt": "2025-06-12T10:35:43.098Z",
+  "location": {
+    "latitude": 30.7333,
+    "longitude": 76.7794,
+    "timestamp": "2025-06-18T13:45:00.000Z"
+  }
+}
+
