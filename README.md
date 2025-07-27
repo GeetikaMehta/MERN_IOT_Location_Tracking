@@ -1,7 +1,12 @@
-<<<<<<< HEAD
+![IMG_20250623_184312](https://github.com/user-attachments/assets/464210e2-222a-4590-b0ca-223671a46a9a)
 # IoT Safety System
 
 A comprehensive IoT safety system with real-time location tracking, device management, and emergency alerts.
+#Overview
+![IMG_20250623_184312](https://github.com/user-attachments/assets/fa6b5397-ea92-4071-990b-d614bed6cb9a)
+<img width="1852" height="881" alt="13" src="https://github.com/user-attachments/assets/eccdb858-68ed-4d0a-b1b0-9660aeabeb44" />
+<img width="1832" height="861" alt="14" src="https://github.com/user-attachments/assets/ed3b7b44-6dbe-4524-b6bf-2120337e7021" />
+
 
 ## Features
 
@@ -158,22 +163,9 @@ IOT/
 │       └── safety_wristband.ino
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
 ## License
-
 This project is licensed under the MIT License.
 
-## Support
-
-For support and questions, please open an issue in the repository. 
-=======
 # MERN_IOT_Location_Tracking
 Mern Stack IOT integration project, simply making a prototype of wrist band in which through IOT sensors one can get the location.
->>>>>>> f0f6b32aaa0923f70d3cc774e6678c9d8fe2b39e
+
